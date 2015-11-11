@@ -1,0 +1,46 @@
+10
+
+dir
+10668
+http://svn.livroandroid.com.br/Livro/Android/src/LivroAndroidCap10-Notification/res
+http://svn.livroandroid.com.br
+
+
+
+2012-12-27T13:05:59.071308Z
+10668
+rlecheta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+357538aa-828e-4d36-ac90-2cbde2e1d2ae
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+

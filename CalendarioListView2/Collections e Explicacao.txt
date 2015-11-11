@@ -1,0 +1,12 @@
+LIST
+--> Vector (não usar mais)
+--> ArrayList (leitura)
+--> LinkedList (ins,upd,del)
+SET
+--> HashSet (nao suporta dup, nao ordena)
+--> TreeSet (nao suporta dup, ordena)
+--> LinkedHashSet (ins, upd, del)
+MAP (CEREJA DO BOLO DO REI)
+--> HashMap
+--> TreeMap
+--> LinkedHashMap

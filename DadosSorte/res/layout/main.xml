@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical"
+    tools:context=".Main" >
+
+    <Button
+        android:id="@+id/btnSortear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Tente mais uma vez!" />
+
+    <ImageView
+        android:id="@+id/imgv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/face1" />
+
+    <ImageView
+        android:id="@+id/imgv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/face1" />
+
+    <ImageView
+        android:id="@+id/imgv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/face1" />
+
+    <RatingBar
+        android:id="@+id/rtbJogadas"
+        android:numStars="5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
